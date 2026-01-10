@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋<br><br>Nice meeting you, I'm Shriyansh!<br><br>🔭 I’m currently working at Policybazaar.<br>🌱 I’m currently learning about distributed system architecture and design.<br>⚡ Fun fact: If I am not coding then I am either watching anime or playing video games.
+Hi there 👋<br><br>Nice meeting you, I'm Shriyansh!<br><br>🔭 I’m currently working at Policybazaar.<br>🌱 I’m currently learning about distributed system architecture and design.<br>⚡ Fun fact: If I am not coding then I am either watching anime or playing video games.
 
 
 ## 🌐 Socials:
